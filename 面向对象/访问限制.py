@@ -9,4 +9,3 @@ class Student(object):
         self.name = name
         self.age = age
 
-bart.score
